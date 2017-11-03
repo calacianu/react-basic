@@ -51,7 +51,6 @@ export class Home extends React.Component {
         });
     }     
 
-
 }
 
 Home.propTypes = {
